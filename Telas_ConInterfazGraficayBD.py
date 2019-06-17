@@ -997,3 +997,4 @@ menubar.add_cascade(label="Ayuda",menu=ayudamenu)
 ventana.mainloop()
 
 conexion.close()
+#gracias a todos
