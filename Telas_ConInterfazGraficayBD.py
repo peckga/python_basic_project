@@ -998,3 +998,4 @@ ventana.mainloop()
 
 conexion.close()
 #gracias a todos
+#modificando desde linux
